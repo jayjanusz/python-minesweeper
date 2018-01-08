@@ -1,4 +1,4 @@
-# python-minesweeper
+# Python Minesweeper Game
 A minesweeper game in python: players click tiles to reveal either a number (representing the number of mines surrounding the tile) or a mine (game over)
 
 ## Current features:
